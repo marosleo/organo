@@ -1,0 +1,7 @@
+.button {
+  background-color: #1d1d1d;
+}
+
+div .button {
+  display: flex;
+}

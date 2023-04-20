@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #6278f7;
+  height: 160px;
+  max-width: 100%;
+}
+
+.socialMidias {
+  display: flex;
+  gap: 20px;
+}
+
+.text {
+  color: #fff;
+}
